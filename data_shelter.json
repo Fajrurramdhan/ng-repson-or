@@ -1,0 +1,445 @@
+{
+    "data": [
+    {
+    "No.": 1,
+    "Name": "Shelter_Paris Central",
+    "Capacity People": 200,
+    "Capacity Livestock": 50,
+    "Latitude": 48.8566,
+    "Longitude": 2.3522,
+    "Province Name": "France"
+    },
+    {
+    "No.": 2,
+    "Name": "Shelter_Berlin Haven",
+    "Capacity People": 350,
+    "Capacity Livestock": 60,
+    "Latitude": 52.52,
+    "Longitude": 13.405,
+    "Province Name": "Germany"
+    },
+    {
+    "No.": 3,
+    "Name": "Shelter_London Square",
+    "Capacity People": 150,
+    "Capacity Livestock": 0,
+    "Latitude": 51.5074,
+    "Longitude": -0.1276,
+    "Province Name": "United Kingdom"
+    },
+    {
+    "No.": 4,
+    "Name": "Shelter_Tokyo Hub",
+    "Capacity People": 300,
+    "Capacity Livestock": 20,
+    "Latitude": 35.6895,
+    "Longitude": 139.6917,
+    "Province Name": "Japan"
+    },
+    {
+    "No.": 5,
+    "Name": "Shelter_Sydney Cove",
+    "Capacity People": 400,
+    "Capacity Livestock": 30,
+    "Latitude": -33.8688,
+    "Longitude": 151.2093,
+    "Province Name": "Australia"
+    },
+    {
+    "No.": 6,
+    "Name": "Shelter_New York Base",
+    "Capacity People": 500,
+    "Capacity Livestock": 0,
+    "Latitude": 40.7128,
+    "Longitude": -74.006,
+    "Province Name": "United States"
+    },
+    {
+    "No.": 7,
+    "Name": "Shelter_Rio Center",
+    "Capacity People": 250,
+    "Capacity Livestock": 40,
+    "Latitude": -22.9068,
+    "Longitude": -43.1729,
+    "Province Name": "Brazil"
+    },
+    {
+    "No.": 8,
+    "Name": "Shelter_Johannesburg Central",
+    "Capacity People": 600,
+    "Capacity Livestock": 50,
+    "Latitude": -26.2041,
+    "Longitude": 28.0473,
+    "Province Name": "South Africa"
+    },
+    {
+    "No.": 9,
+    "Name": "Shelter_Moscow Stand",
+    "Capacity People": 700,
+    "Capacity Livestock": 0,
+    "Latitude": 55.7558,
+    "Longitude": 37.6173,
+    "Province Name": "Russia"
+    },
+    {
+    "No.": 10,
+    "Name": "Shelter_Beijing South",
+    "Capacity People": 450,
+    "Capacity Livestock": 20,
+    "Latitude": 39.9042,
+    "Longitude": 116.4074,
+    "Province Name": "China"
+    },
+    {
+    "No.": 11,
+    "Name": "Shelter_Dubai Complex",
+    "Capacity People": 500,
+    "Capacity Livestock": 30,
+    "Latitude": 25.276987,
+    "Longitude": 55.296249,
+    "Province Name": "United Arab Emirates"
+    },
+    {
+    "No.": 12,
+    "Name": "Shelter_Singapore Safehouse",
+    "Capacity People": 350,
+    "Capacity Livestock": 0,
+    "Latitude": 1.3521,
+    "Longitude": 103.8198,
+    "Province Name": "Singapore"
+    },
+    {
+    "No.": 13,
+    "Name": "Shelter_Seoul Station",
+    "Capacity People": 400,
+    "Capacity Livestock": 50,
+    "Latitude": 37.5665,
+    "Longitude": 126.978,
+    "Province Name": "South Korea"
+    },
+    {
+    "No.": 14,
+    "Name": "Shelter_Madrid Plaza",
+    "Capacity People": 300,
+    "Capacity Livestock": 0,
+    "Latitude": 40.4168,
+    "Longitude": -3.7038,
+    "Province Name": "Spain"
+    },
+    {
+    "No.": 15,
+    "Name": "Shelter_Rome Refuge",
+    "Capacity People": 250,
+    "Capacity Livestock": 20,
+    "Latitude": 41.9028,
+    "Longitude": 12.4964,
+    "Province Name": "Italy"
+    },
+    {
+    "No.": 16,
+    "Name": "Shelter_Bangkok Shelter",
+    "Capacity People": 200,
+    "Capacity Livestock": 10,
+    "Latitude": 13.7563,
+    "Longitude": 100.5018,
+    "Province Name": "Thailand"
+    },
+    {
+    "No.": 17,
+    "Name": "Shelter_Hong Kong Hub",
+    "Capacity People": 450,
+    "Capacity Livestock": 0,
+    "Latitude": 22.3193,
+    "Longitude": 114.1694,
+    "Province Name": "Hong Kong"
+    },
+    {
+    "No.": 18,
+    "Name": "Shelter_Kuala Lumpur Center",
+    "Capacity People": 500,
+    "Capacity Livestock": 0,
+    "Latitude": 3.139,
+    "Longitude": 101.6869,
+    "Province Name": "Malaysia"
+    },
+    {
+    "No.": 19,
+    "Name": "Shelter_Cairo Base",
+    "Capacity People": 300,
+    "Capacity Livestock": 60,
+    "Latitude": 30.0444,
+    "Longitude": 31.2357,
+    "Province Name": "Egypt"
+    },
+    {
+    "No.": 20,
+    "Name": "Shelter_Toronto North",
+    "Capacity People": 400,
+    "Capacity Livestock": 20,
+    "Latitude": 43.65107,
+    "Longitude": -79.347015,
+    "Province Name": "Canada"
+    },
+    {
+    "No.": 21,
+    "Name": "Shelter_Vancouver Center",
+    "Capacity People": 550,
+    "Capacity Livestock": 40,
+    "Latitude": 49.2827,
+    "Longitude": -123.1207,
+    "Province Name": "Canada"
+    },
+    {
+    "No.": 22,
+    "Name": "Shelter_Athens Asylum",
+    "Capacity People": 200,
+    "Capacity Livestock": 0,
+    "Latitude": 37.9838,
+    "Longitude": 23.7275,
+    "Province Name": "Greece"
+    },
+    {
+    "No.": 23,
+    "Name": "Shelter_Buenos Aires Station",
+    "Capacity People": 600,
+    "Capacity Livestock": 30,
+    "Latitude": -34.6037,
+    "Longitude": -58.3816,
+    "Province Name": "Argentina"
+    },
+    {
+    "No.": 24,
+    "Name": "Shelter_Santiago Point",
+    "Capacity People": 300,
+    "Capacity Livestock": 50,
+    "Latitude": -33.4489,
+    "Longitude": -70.6483,
+    "Province Name": "Chile"
+    },
+    {
+    "No.": 25,
+    "Name": "Shelter_Mexico City Safehouse",
+    "Capacity People": 450,
+    "Capacity Livestock": 20,
+    "Latitude": 19.4326,
+    "Longitude": -99.1332,
+    "Province Name": "Mexico"
+    },
+    {
+    "No.": 26,
+    "Name": "Shelter_Lisbon Central",
+    "Capacity People": 350,
+    "Capacity Livestock": 30,
+    "Latitude": 38.7169,
+    "Longitude": -9.1393,
+    "Province Name": "Portugal"
+    },
+    {
+    "No.": 27,
+    "Name": "Shelter_Amsterdam Dock",
+    "Capacity People": 500,
+    "Capacity Livestock": 10,
+    "Latitude": 52.3676,
+    "Longitude": 4.9041,
+    "Province Name": "Netherlands"
+    },
+    {
+    "No.": 28,
+    "Name": "Shelter_Stockholm Safe",
+    "Capacity People": 250,
+    "Capacity Livestock": 40,
+    "Latitude": 59.3293,
+    "Longitude": 18.0686,
+    "Province Name": "Sweden"
+    },
+    {
+    "No.": 29,
+    "Name": "Shelter_Oslo Harbor",
+    "Capacity People": 300,
+    "Capacity Livestock": 0,
+    "Latitude": 59.9139,
+    "Longitude": 10.7522,
+    "Province Name": "Norway"
+    },
+    {
+    "No.": 30,
+    "Name": "Shelter_Helsinki Fort",
+    "Capacity People": 400,
+    "Capacity Livestock": 30,
+    "Latitude": 60.1699,
+    "Longitude": 24.9354,
+    "Province Name": "Finland"
+    },
+    {
+    "No.": 31,
+    "Name": "Shelter_Warsaw House",
+    "Capacity People": 450,
+    "Capacity Livestock": 50,
+    "Latitude": 52.2297,
+    "Longitude": 21.0122,
+    "Province Name": "Poland"
+    },
+    {
+    "No.": 32,
+    "Name": "Shelter_Prague Center",
+    "Capacity People": 300,
+    "Capacity Livestock": 0,
+    "Latitude": 50.0755,
+    "Longitude": 14.4378,
+    "Province Name": "Czech Republic"
+    },
+    {
+    "No.": 33,
+    "Name": "Shelter_Dublin Central",
+    "Capacity People": 400,
+    "Capacity Livestock": 10,
+    "Latitude": 53.3498,
+    "Longitude": -6.2603,
+    "Province Name": "Ireland"
+    },
+    {
+    "No.": 34,
+    "Name": "Shelter_Brussels Refuge",
+    "Capacity People": 600,
+    "Capacity Livestock": 60,
+    "Latitude": 50.8503,
+    "Longitude": 4.3517,
+    "Province Name": "Belgium"
+    },
+    {
+    "No.": 35,
+    "Name": "Shelter_Copenhagen Hub",
+    "Capacity People": 550,
+    "Capacity Livestock": 30,
+    "Latitude": 55.6761,
+    "Longitude": 12.5683,
+    "Province Name": "Denmark"
+    },
+    {
+    "No.": 36,
+    "Name": "Shelter_Budapest South",
+    "Capacity People": 500,
+    "Capacity Livestock": 0,
+    "Latitude": 47.4979,
+    "Longitude": 19.0402,
+    "Province Name": "Hungary"
+    },
+    {
+    "No.": 37,
+    "Name": "Shelter_Bucharest Central",
+    "Capacity People": 400,
+    "Capacity Livestock": 20,
+    "Latitude": 44.4268,
+    "Longitude": 26.1025,
+    "Province Name": "Romania"
+    },
+    {
+    "No.": 38,
+    "Name": "Shelter_Sofia Safehouse",
+    "Capacity People": 450,
+    "Capacity Livestock": 10,
+    "Latitude": 42.6977,
+    "Longitude": 23.3219,
+    "Province Name": "Bulgaria"
+    },
+    {
+    "No.": 39,
+    "Name": "Shelter_Vienna Point",
+    "Capacity People": 600,
+    "Capacity Livestock": 0,
+    "Latitude": 48.2082,
+    "Longitude": 16.3738,
+    "Province Name": "Austria"
+    },
+    {
+    "No.": 40,
+    "Name": "Shelter_Zurich Asylum",
+    "Capacity People": 300,
+    "Capacity Livestock": 40,
+    "Latitude": 47.3769,
+    "Longitude": 8.5417,
+    "Province Name": "Switzerland"
+    },
+    {
+    "No.": 41,
+    "Name": "Shelter_Brasilia Outpost",
+    "Capacity People": 700,
+    "Capacity Livestock": 60,
+    "Latitude": -15.8267,
+    "Longitude": -47.9292,
+    "Province Name": "Brazil"
+    },
+    {
+    "No.": 42,
+    "Name": "Shelter_Canberra Base",
+    "Capacity People": 200,
+    "Capacity Livestock": 20,
+    "Latitude": -35.2809,
+    "Longitude": 149.13,
+    "Province Name": "Australia"
+    },
+    {
+    "No.": 43,
+    "Name": "Shelter_Jakarta Refuge",
+    "Capacity People": 500,
+    "Capacity Livestock": 0,
+    "Latitude": -6.2088,
+    "Longitude": 106.8456,
+    "Province Name": "Indonesia"
+    },
+    {
+    "No.": 44,
+    "Name": "Shelter_Manila Shelter",
+    "Capacity People": 450,
+    "Capacity Livestock": 30,
+    "Latitude": 14.5995,
+    "Longitude": 120.9842,
+    "Province Name": "Philippines"
+    },
+    {
+    "No.": 45,
+    "Name": "Shelter_Hanoi Hub",
+    "Capacity People": 400,
+    "Capacity Livestock": 10,
+    "Latitude": 21.0285,
+    "Longitude": 105.8342,
+    "Province Name": "Vietnam"
+    },
+    {
+    "No.": 46,
+    "Name": "Shelter_Dhaka Safehouse",
+    "Capacity People": 350,
+    "Capacity Livestock": 20,
+    "Latitude": 23.8103,
+    "Longitude": 90.4125,
+    "Province Name": "Bangladesh"
+    },
+    {
+    "No.": 47,
+    "Name": "Shelter_Riyadh Refuge",
+    "Capacity People": 200,
+    "Capacity Livestock": 0,
+    "Latitude": 24.7136,
+    "Longitude": 46.6753,
+    "Province Name": "Saudi Arabia"
+    },
+    {
+    "No.": 48,
+    "Name": "Shelter_Ankara Station",
+    "Capacity People": 600,
+    "Capacity Livestock": 0,
+    "Latitude": 39.9334,
+    "Longitude": 32.8597,
+    "Province Name": "Turkey"
+    },
+    {
+    "No.": 49,
+    "Name": "Shelter_Tashkent Post",
+    "Capacity People": 300,
+    "Capacity Livestock": 10,
+    "Latitude": 41.2995,
+    "Longitude": 69.2401,
+    "Province Name": "Uzbekistan"
+    }]
+}
+    
